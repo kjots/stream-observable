@@ -1,2 +1,3 @@
-# stream-observable
+# @kjots/stream-observable
+
 Stream Observable
