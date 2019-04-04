@@ -1,6 +1,7 @@
 {
   "extends": "@kjots/tslint-rules",
   "rules": {
+    "max-classes-per-file": false,
     "no-unused-expression": false
   }
 }
